@@ -1,5 +1,5 @@
 # Hi I'm Michel Filho
-- Actually i'm learning C
+- Actually i'm learning C++
 
 <div align="center">
   <a href="https://github.com/MichelHBFilho">
